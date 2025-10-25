@@ -44,7 +44,7 @@ Dieses Projekt ist eine Spring-Boot-Anwendung, die als Preisaggregator für vers
 
 1.  **Klonen Sie das Repository:**
     ```bash
-    git clone https://github.com/2pizzzza/Aggregator_LNDC.git
+    git clone https://github.com/tashbaevb/Aggregator_LNDC.git
     cd Aggregator_LNDC
     ```
 
